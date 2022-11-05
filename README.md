@@ -1,12 +1,12 @@
-# BBVA2022Hackathon
+# 4th Cassini Hackathon
 
-Sustainable NFTs & AWS
+Byetek project
 
 
 Here is the Smart Contract over ERC721 Ownable with the next extensions:
 
 Create Hero
-Create Promotion
+Create Challenger
 Ugrade Level
 
 
